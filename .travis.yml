@@ -1,0 +1,3 @@
+language: csharp
+script:
+  - cd src && xbuild /p:Configuration=Release Mapless.proj
