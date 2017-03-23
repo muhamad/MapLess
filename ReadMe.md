@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/muh00mad/MapLess.svg?branch=master)](https://travis-ci.org/muh00mad/Mapless)
 [![release](https://img.shields.io/github/release/muh00mad/mapless.svg)](/muh00mad/Mapless/releases/latest)
 
-MapLess is a minimal [ORM](https://en.wikipedia.org/wiki/Object-relational_mapping/) library to map database objects to application interfaces.
+MapLess is a minimal [micro-ORM](https://en.wikipedia.org/wiki/Object-relational_mapping/) library to map database objects to application interfaces.
 
 ## Installation
 Use Package manager and run the following command
