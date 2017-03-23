@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MapLess</id>
+    <version>1.0.2</version>
+    <authors>Muhammad Aladdin</authors>
+    <owners>Muhammad Aladdin</owners>
+    <licenseUrl>https://github.com/muh00mad/MapLess/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/muh00mad/Mapless/</projectUrl>
+    <iconUrl>https://s10.postimg.org/b9rssvf5l/Map_Less.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MapLess is a minimal Micro-ORM library to map database objects to application interfaces.</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>MapLess ORM Micro-ORM Database Mapper SQL Mapping DataAccess DAL</tags>
+  </metadata>
+</package>
