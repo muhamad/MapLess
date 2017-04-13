@@ -10,8 +10,8 @@ In [MapLess](https://www.github.com/muh00mad/MapLess/) the namespace `MapLess` c
 
 ### A word before start
 
-Before diving into examples you need to know that only [`ConcreteAttribute`](Ref.Concrete.md) and [`TypeMap<>`](Ref.TypeMap.md) are the only essential components you need to use, however if you want to go with this option you might need to consider executing [`IDbCommand.ExecuteReader`](https://msdn.microsoft.com/en-us/library/68etdec0(v=vs.110).aspx) with option [`CommandBehavior.SequentialAccess`](https://msdn.microsoft.com/en-us/library/system.data.commandbehavior(v=vs.110).aspx) for best performance.
+Before diving into examples you need to know that [`ConcreteAttribute`](Ref.Concrete.md) and [`TypeMap<>`](Ref.TypeMap.md) are the only essential components you need to use, however if you want to go with this option you might need to consider executing [`IDbCommand.ExecuteReader`](https://msdn.microsoft.com/en-us/library/68etdec0(v=vs.110).aspx) with option [`CommandBehavior.SequentialAccess`](https://msdn.microsoft.com/en-us/library/system.data.commandbehavior(v=vs.110).aspx) for best performance.
 
 ### Basic Example
 
-Please refer to [Basic Example](Example.Basic.md) from Example section in [Documentation](ReadMe.md) page.
+Please refer to [Basic Example](Example.Basic.md) from Example section in [Documentation](ReadMe.md#examples) page.
